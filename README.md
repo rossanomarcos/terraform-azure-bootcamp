@@ -49,6 +49,6 @@
   - $ terraform state show azurerm_linux_virtual_machine.mtc-vm
   - $ ssh -i ~/.ssh/id_rsa.pub ?????????@??.???.???.??
 
-  - terraform destroy -auto-approve
+  - $ terraform destroy -auto-approve
 
 
