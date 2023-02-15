@@ -11,11 +11,14 @@
 * [Terraform Tutorial - How to Install Terraform on Windows 10 (video)](https://www.youtube.com/watch?v=ljYzclmsvF4&ab_channel=CloudGuru)
 * [Learn Terraform with Azure by Building a Dev Environment (video)](https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org)
 
-* [Terraform Azure - resource_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group)
-* [Terraform Azure - virtual_network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
-* [Terraform Azure - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
-* [Terraform Azure - network_security_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_group)
-* [ - network_security_rule](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_rule)
+* [azurerm - resource_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group)
+* [azurerm - virtual_network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
+* [azurerm - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
+* [azurerm - network_security_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_group)
+* [azurerm - network_security_rule](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_rule)
+* [azurerm - subnet_network_security_group_association](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet_network_security_group_association)
+
+
 
 ### List of commands
 
@@ -32,7 +35,7 @@
   - $ terraform show
   - $ terraform plan -destroy
   - $ terraform apply -destroy 
-  -   - $ terraform apply -destroy -auto-approve
+  - $ terraform apply -destroy -auto-approve
 
 
 
