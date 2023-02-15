@@ -16,6 +16,7 @@
 * [Terraform Azure - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
 
 ### List of commands
+''
 $ az login
 $ az account show
 $ terraform init
@@ -29,5 +30,6 @@ $ terraform state show azurerm_resource_group.abc-rg
 $ terraform show
 $ terraform plan -destroy
 $ terraform apply -destroy 
+''
 
 
