@@ -16,13 +16,18 @@
 * [Terraform Azure - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
 
 ### List of commands
-* $ az account show
-* $ terraform init
-* $ terraform fmt
-* $ terraform plan
-* $ terraform apply
-* $ terraform 
-* $ terraform 
-* $ terraform 
-* $ terraform 
+$ az login
+$ az account show
+$ terraform init
+$ terraform fmt
+$ terraform plan
+$ terraform apply
+$ terraform apply -help
+$ terraform apply -auto-approve
+$ terraform state list
+$ terraform state show azurerm_resource_group.abc-rg
+$ terraform show
+$ terraform plan -destroy
+$ terraform apply -destroy 
+
 
