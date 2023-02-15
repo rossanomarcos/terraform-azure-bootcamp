@@ -8,5 +8,5 @@
 * [Install Azure CLI on Windows](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli)
 * [Terraform Azure Documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 * [Install Terraform on Windows with Bash](https://learn.microsoft.com/en-us/azure/developer/terraform/get-started-windows-bash?tabs=bash)
-* [Terraform Tutorial - How to Install Terraform on Windows 10? video](https://www.youtube.com/watch?v=ljYzclmsvF4&ab_channel=CloudGuru)
-* [Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginner](https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org)
+* [Terraform Tutorial - How to Install Terraform on Windows 10 (video)](https://www.youtube.com/watch?v=ljYzclmsvF4&ab_channel=CloudGuru)
+* [Learn Terraform with Azure by Building a Dev Environment – Full Course for Beginner (video)](https://www.youtube.com/watch?v=V53AHWun17s&ab_channel=freeCodeCamp.org)
