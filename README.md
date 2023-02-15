@@ -14,6 +14,7 @@
 * [Terraform Azure - resource_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group)
 * [Terraform Azure - virtual_network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
 * [Terraform Azure - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
+* [Terraform Azure - network_security_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/data-sources/network_security_group)
 
 ### List of commands
 
@@ -30,6 +31,7 @@
   - $ terraform show
   - $ terraform plan -destroy
   - $ terraform apply -destroy 
+  -   - $ terraform apply -destroy -auto-approve
 
 
 
