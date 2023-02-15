@@ -43,9 +43,9 @@
   - $ terraform apply -auto-approve
   - $ terraform state list
   - $ terraform state show azurerm_public_ip.mtc-ip
-  - 
+ 
   - $ ssh-keygen -t rsa
-  - ls ~/.ssh
+  - $ ls -ltr ~/.ssh
 
 
 
