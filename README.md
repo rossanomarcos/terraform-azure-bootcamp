@@ -39,5 +39,11 @@
   - $ terraform apply -destroy 
   - $ terraform apply -destroy -auto-approve
 
+  - $ terraform apply -auto-approve
+  - $ terraform state list
+  - $ terraform state show azurerm_public_ip.mtc-ip
+  - 
+
+
 
 
