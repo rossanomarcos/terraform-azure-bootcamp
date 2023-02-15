@@ -15,13 +15,13 @@
 * [Terraform Azure - virtual_network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
 
 ### List of commands
-$ az account show
-$ terraform init
-$ terraform fmt
-$ terraform plan
-$ terraform apply
-$ terraform 
-$ terraform 
-$ terraform 
-$ terraform 
+* $ az account show
+* $ terraform init
+* $ terraform fmt
+* $ terraform plan
+* $ terraform apply
+* $ terraform 
+* $ terraform 
+* $ terraform 
+* $ terraform 
 
