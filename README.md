@@ -15,6 +15,7 @@
 * [Terraform Azure - virtual_network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
 * [Terraform Azure - subnet](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subnet)
 * [Terraform Azure - network_security_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_group)
+* [ - network_security_rule](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_security_rule)
 
 ### List of commands
 
